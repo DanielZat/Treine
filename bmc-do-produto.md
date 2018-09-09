@@ -1,4 +1,4 @@
 # Business Model Canvas do Produto
 
-Apresentar o BMC, PMC ou _MVP Canvas_
+![Business Model Canvas - Treine](.gitbook/assets/Businness Model Canvas Treine.png)
 
