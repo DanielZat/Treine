@@ -1,4 +1,4 @@
-# Canvas do Produto
+# Business Model Canvas do Produto
 
 Apresentar o BMC, PMC ou _MVP Canvas_
 
