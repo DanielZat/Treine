@@ -4,6 +4,8 @@ Esse documento tem como objetivo apresentar e descrever o projeto final denomina
 
 ## [Business Model Canvas](bmc-do-produto.md)
 
+## [Personas](personas.md)
+
 ## [Planejamento da Release](planejamento-da-release.md)
 
 ## [Representação da Arquitetura](representacao-da-arquitetura.md) 
