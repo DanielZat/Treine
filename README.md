@@ -1,8 +1,8 @@
 # Documentação e Artefatos
 
-Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
+Esse documento tem como objetivo apresentar e descrever o projeto final denominado Treine, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
-## [Canvas do Produto](canvas-do-produto.md)
+## [Business Model Canvas](bmc-do-produto.md)
 
 ## [Planejamento da Release](planejamento-da-release.md)
 
