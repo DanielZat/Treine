@@ -18,3 +18,10 @@
 ## Menu de mensagens do professor
 ![Menu de mensagens](.gitbook/assets/mensagens.png)
 
+## Menu de treinos do aluno
+![Menu de mensagens](.gitbook/assets/treinoAluno.png)
+
+## Menu de mensagens do aluno
+![Menu de mensagens](.gitbook/assets/mensagensAluno.png)
+
+
