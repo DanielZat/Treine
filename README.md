@@ -6,21 +6,11 @@ Esse documento tem como objetivo apresentar e descrever o projeto final denomina
 
 ## [Personas](personas.md)
 
-## [Diagrama de Casos de Uso](DiagramaCasosDeUso.md)
+## [Diagrama de Casos de Uso](diagrama-casos-de-uso.md)
 
-## [Protótipos de Interface](PrototipoInterface.md)
+## [Protótipos de Interface](prototipo-interface.md)
 
-## [Product Backlog](ProductBacklog.md)
-
-## [Planejamento da Release](planejamento-da-release.md)
-
-## [Representação da Arquitetura](representacao-da-arquitetura.md) 
-
-## [Desenvolvimento da Solução](desenvolvimento-da-solucao.md)
-
-## [Testes e Validação](testes.md)
-
-## [POSTMORTEM](postmortem.md)
+## [Product Backlog](product-backlog.md)
 
 
 
