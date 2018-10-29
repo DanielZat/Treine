@@ -6,6 +6,12 @@ Esse documento tem como objetivo apresentar e descrever o projeto final denomina
 
 ## [Personas](personas.md)
 
+## [Diagrama de Casos de Uso](DiagramaCasosDeUso.md)
+
+## [Protótipos de Interface](PrototipoInterface.md)
+
+## [Product Backlog](ProductBacklog.md)
+
 ## [Planejamento da Release](planejamento-da-release.md)
 
 ## [Representação da Arquitetura](representacao-da-arquitetura.md) 
