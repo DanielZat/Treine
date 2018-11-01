@@ -28,14 +28,16 @@ Protótipo da tela de histórico de treinos. A tela de histórico de treinos lis
 ![Menu de histórico](.gitbook/assets/historico.png)
 
 ## Menu de mensagens do Personal Trainer
-Protótipos da telas de mensagens do Personal Trainer e adição de nova mensagem. Na primeira tela é apresentada a listagem das mensagens enviadas e recebidas. Na segunda tela, é demonstrado o protótipo da tela de adição de nova mensagem.
+Protótipos das telas de mensagens do Personal Trainer e adição de nova mensagem. Na primeira tela é apresentada a listagem das mensagens enviadas e recebidas. Na segunda tela, é demonstrado o protótipo da tela de adição de nova mensagem.
 
 ![Menu de mensagens](.gitbook/assets/mensagens.png)
 
 ## Menu de treinos do aluno
+Protótipos das telas de listagem de treinos do aluno e finalização de treino. A finalização de treino consiste em enviar ao Personal Trainer qual treino foi finalizado e um feedback descrevendo as opiniões do aluno sobre o mesmo.
+
 ![Menu de mensagens](.gitbook/assets/treinoAluno.png)
 
 ## Menu de mensagens do aluno
 ![Menu de mensagens](.gitbook/assets/mensagensAluno.png)
-
+Protótipos das telas de mensagens do aluno e adição de nova mensagem. Na primeira tela é apresentada a listagem das mensagens enviadas e recebidas. Na segunda tela, é demonstrado o protótipo da tela de adição de nova mensagem.
 
