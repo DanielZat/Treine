@@ -3,15 +3,18 @@
 Abaixo segue os protótipos de interface criados na fase de iniciação do projeto, desenvolvidos com o objetivo de poder expor e testar a funcionalidade e a usabilidade do sistema.
 
 ## Login
-
-Protótipos das telas de Login, criação de conta e redefinição de senha.
+Protótipos das telas de login, criação de conta e redefinição de senha.
 
 ![Login](.gitbook/assets/login.png)
 
 ## Menu de alunos
+Protótipos das telas de listagem de alunos e criação de um novo aluno.
+
 ![Menu de alunos](.gitbook/assets/aluno.png)
 
 ## Menu de exercícios
+Protótipos das telas de listagem de exercícios e criação de um novo exercício.
+
 ![Menu de exercícios](.gitbook/assets/exercicios.png)
 
 ## Menu de treinos
