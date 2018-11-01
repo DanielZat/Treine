@@ -1,6 +1,11 @@
 # Protótipos de Interface
 
+Abaixo segue os protótipos de interface criados na fase de iniciação do projeto, desenvolvidos com o objetivo de poder expor e testar a funcionalidade e a usabilidade do sistema.
+
 ## Login
+
+Protótipos das telas de Login, criação de conta e redefinição de senha.
+
 ![Login](.gitbook/assets/login.png)
 
 ## Menu de alunos
