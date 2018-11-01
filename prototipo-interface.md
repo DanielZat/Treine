@@ -38,6 +38,8 @@ Protótipos das telas de listagem de treinos do aluno e finalização de treino.
 ![Menu de mensagens](.gitbook/assets/treinoAluno.png)
 
 ## Menu de mensagens do aluno
-![Menu de mensagens](.gitbook/assets/mensagensAluno.png)
 Protótipos das telas de mensagens do aluno e adição de nova mensagem. Na primeira tela é apresentada a listagem das mensagens enviadas e recebidas. Na segunda tela, é demonstrado o protótipo da tela de adição de nova mensagem.
+
+![Menu de mensagens](.gitbook/assets/mensagensAluno.png)
+
 
