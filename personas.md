@@ -8,10 +8,12 @@ A primeira persona, denominada Douglas Silveira, representa um aluno que frequen
 ![Persona - 1](.gitbook/assets/persona1.PNG)
 
 ## Persona 2
-A segunda persona, denominada Pierre, representa outro aluno, porém com outras características e outro perfil social.
+A segunda persona, denominada Pierre Pieretti, representa outro aluno, porém com outras características e outro perfil social.
 
 ![Persona - 2](.gitbook/assets/persona2.PNG)
 
 ## Persona 3
-![Persona - 3](.gitbook/assets/persona3.PNG)
 A terceira persona, denominada Amanda, representa uma Personal Trainer com grande volume de alunos.
+
+![Persona - 3](.gitbook/assets/persona3.PNG)
+
